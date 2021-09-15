@@ -1,5 +1,5 @@
 /**
-  *Submitted for verification at BscScan.com on 2021-09-11
+  *Submitted for verification at BscScan.com on 2021-09-14
  */
 
  //SPDX-License-Identifier: MIT
@@ -651,7 +651,7 @@
      }
  }
 
- contract BFTM is
+ contract FTSWAP is
      BASEToken("Fantom Swap", "FTSWAP", 2550000000 * (10**9), 9),
      SafeToken,
      LockToken
